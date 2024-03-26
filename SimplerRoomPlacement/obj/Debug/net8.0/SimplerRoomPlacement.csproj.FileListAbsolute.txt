@@ -1,0 +1,14 @@
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\bin\Debug\net8.0\SimplerRoomPlacement.exe
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\bin\Debug\net8.0\SimplerRoomPlacement.deps.json
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\bin\Debug\net8.0\SimplerRoomPlacement.runtimeconfig.json
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\bin\Debug\net8.0\SimplerRoomPlacement.dll
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\bin\Debug\net8.0\SimplerRoomPlacement.pdb
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\SimplerRoomPlacement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\SimplerRoomPlacement.AssemblyInfoInputs.cache
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\SimplerRoomPlacement.AssemblyInfo.cs
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\SimplerRoomPlacement.csproj.CoreCompileInputs.cache
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\SimplerRoomPlacement.dll
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\refint\SimplerRoomPlacement.dll
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\SimplerRoomPlacement.pdb
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\SimplerRoomPlacement.genruntimeconfig.cache
+C:\Users\limbo\Documents\SOFTWARE - UNI\P4\SimpleRoomPlacement\SimplerRoomPlacement\obj\Debug\net8.0\ref\SimplerRoomPlacement.dll
